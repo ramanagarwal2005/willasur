@@ -19,7 +19,7 @@
 - exploring ecommerce and graphic design
 - practicing scales and patterns on my guitar 
 
-### Background
+#### *Background*
 - CompTIA
 - Cisco
 - Red Hat
