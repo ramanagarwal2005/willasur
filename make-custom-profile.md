@@ -10,9 +10,9 @@
 
 ### ***I enjoy:***
 
-- Troubleshooting hardware and fixing network issues
-- Supporting administrators, engineers and clients
-- Working with my peers to achieve a common goal
+- troubleshooting hardware and fixing network issues
+- supporting administrators, engineers and clients
+- working with peers to achieve a common goal
 
 >*If I am not working or studying I am:*
 - Completing projects around the house
