@@ -14,7 +14,7 @@
 - supporting administrators, engineers and clients
 - working with peers to achieve a common goal
 
->*If I am not working or studying I am:*
+>*Outside of work I enjoy:*
 - Completing projects around the house
 - Exploring ecommerce and trying graphic design
 - Practicing scales and patterns on my guitar 
