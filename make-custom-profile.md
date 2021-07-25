@@ -1,7 +1,7 @@
 # willasur
 
 
-![Bay Bridge at Night](./assets/banner.png) 
+![Coronado Bridge, Day](./assets/banner2.png) 
 
 ### On GitHub I am:
 - learning git and GitHub's features and functions
