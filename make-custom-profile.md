@@ -16,8 +16,8 @@
 
 >*If I am not working or studying I am:*
 - Completing projects around the house
-- Building online stores or creating graphic designs
-- Practicing scales on my guitar or recording riffs
+- Exploring ecommerce and trying graphic design
+- Practicing scales and patterns on my guitar 
 
 ### Background
 - CompTIA
