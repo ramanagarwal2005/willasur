@@ -8,7 +8,7 @@
 - creating repositories of projects
 - checking for project updates and requirements
 
-### I enjoy:
+### ***I enjoy:***
 
 - Troubleshooting hardware and fixing network issues
 - Supporting administrators, engineers and clients
