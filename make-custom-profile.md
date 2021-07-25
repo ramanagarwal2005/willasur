@@ -31,7 +31,7 @@
 <https://linkedin.com/in/willasur/>
 
 ### Professional
-Cloud operations  
+**Cloud operations**  
 Delivering core infrasturcture and foundational technologies that power the cloud
 
 
