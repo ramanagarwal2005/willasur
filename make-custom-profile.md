@@ -4,9 +4,9 @@
 ![Bay Bridge at Night](./assets/banner.png) 
 
 ### On GitHub I am:
-- Submitting  my projects 
-- Practicing using git and its features
-- Checking weekly assignments and project requirements
+- learning git and GitHub's features and functions
+- creating repositories of projects
+- checking for project updates and requirements
 
 ### I enjoy:
 
