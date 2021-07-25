@@ -14,7 +14,7 @@
 - Supporting administrators, engineers and clients
 - Working with my peers to achieve a common goal
 
->If I am not working or studying I am:
+>*If I am not working or studying I am:*
 - Completing projects around the house
 - Building online stores or creating graphic designs
 - Practicing scales on my guitar or recording riffs
