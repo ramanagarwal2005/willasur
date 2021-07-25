@@ -15,9 +15,9 @@
 - working with peers to achieve a common goal
 
 >*Outside of work I enjoy:*
-- Completing projects around the house
-- Exploring ecommerce and trying graphic design
-- Practicing scales and patterns on my guitar 
+- completing projects around the house
+- exploring ecommerce and graphic design
+- practicing scales and patterns on my guitar 
 
 ### Background
 - CompTIA
